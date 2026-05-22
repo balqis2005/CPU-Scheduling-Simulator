@@ -30,9 +30,9 @@ An interactive desktop application built using **Python** and **CustomTkinter** 
 
 ## 📸 Screenshots
 
-![Simulator Interface](main.png)
-![Simulator Interface](menu.png)
-![Simulator Interface](fcfs.png)
-![Simulator Interface](sjf.png)
-![Simulator Interface](srtf.png)
-![Simulator Interface](rr.png)
+<img width="1919" height="997" alt="main" src="https://github.com/user-attachments/assets/523e2808-ffab-48b0-b9bf-bc3744593eb1" />
+<img width="1918" height="1007" alt="menu" src="https://github.com/user-attachments/assets/4110f557-7225-456d-ad4b-451bbf309a57" />
+<img width="1912" height="994" alt="fcfs" src="https://github.com/user-attachments/assets/203ef033-564e-4ea5-be22-aac539045f0e" />
+<img width="1919" height="1003" alt="sjf" src="https://github.com/user-attachments/assets/59f4b973-cc30-407f-a391-d0463e031d6f" />
+<img width="1916" height="1001" alt="srtf" src="https://github.com/user-attachments/assets/c84b8547-9128-4391-99fe-5ec0810c4b4b" />
+<img width="1919" height="1004" alt="rr" src="https://github.com/user-attachments/assets/08fb8ee4-200b-41ec-8b32-b95bc97d86dc" />
